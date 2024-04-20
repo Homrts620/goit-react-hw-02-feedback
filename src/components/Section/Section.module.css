@@ -1,0 +1,9 @@
+.title {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 26px;
+    text-align: center;
+    margin: 0 auto;
+    color: #53545af5;
+}
